@@ -1,3 +1,4 @@
+This is the file I meant to save!
 Vagrant.configure("2") do |c|
   c.ssh.insert_key = false
   # openSUSE
